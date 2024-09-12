@@ -1,0 +1,33 @@
+
+
+@media only screen and (max-width: 600px) {
+    .hidembl{
+    display: none;
+}
+#smtext{
+    font-size: 14px;
+}
+
+
+.banner-carousel .content-box .btn-box .call-now .inner h3 a {
+    display: inline-block;
+    color: #222;
+font-size: 19px;
+}
+.main-header .logo-box .logo{
+    position: relative;
+    max-width: 102px;
+    width: 100%;
+  }
+
+
+  .main-header .logo-box {
+    padding: 25px 0px;
+    width: 62px;
+}
+.service-details {
+    padding: 27px 0px;
+}
+
+}
+
